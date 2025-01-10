@@ -1,0 +1,126 @@
+section:first-of-type {
+    margin-top: 66px;
+}
+
+/* Navbar */
+.navbar-custom {
+    background: #155724;
+}
+
+.navbar-custom .nav-link {
+    color: white !important;
+    
+}
+.navbar-custom .nav-link.active{
+    color: white!important;
+}
+
+.offcanvas.show{
+    background: #155724;
+}
+/* Hero Slider */
+.hero-slider {
+    aspect-ratio: 16/9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Hero Section */
+.hero-section {
+    background: url('/images/slider.png') no-repeat center center/cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-section h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.hero-section h2 {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+.hero-section .icons {
+    font-size: 20px;
+}
+.hero-section.hero-contact{
+    background: url('/images/kapadokya.jpeg') no-repeat center center/cover;
+}
+.hero-section.hero-discover{
+    background: url('/images/kaputask.jpg') no-repeat center center/cover;
+}
+.hero-section.hero-hotels{
+    background: url('/images/finland.jpg') no-repeat center center/cover;
+}
+.hero-section.hero-place{
+    background: url('/images/slider.png') no-repeat center center/cover;
+}
+
+/* About Section */
+.about-section {
+    padding: 50px 0;
+}
+
+.about-section img {
+    border-radius: 10px;
+}
+
+.about-section p {
+    font-size: 1rem;
+}
+
+/* Discover Section */
+.discover-section {
+    padding: 50px 0;
+}
+
+.discover-section h2 {
+    margin-bottom: 20px;
+}
+
+.discover-section img {
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+/* Newsletter Section */
+.newsletter-section {
+    background-color: white;
+    padding: 40px 0;
+
+}
+.newsletter-container {
+    background-color: #155724; 
+    padding: 30px; 
+    border-radius: 10px; 
+    max-width: 1200px; 
+    margin: 0 auto; 
+    color: white; 
+}
+
+.newsletter-container h2 {
+    margin-bottom: 20px; 
+}
+
+.newsletter-container p {
+    margin-bottom: 20px; 
+}
+
+.newsletter-container .btn {
+    background-color: white; 
+    color: #155724; 
+    font-size: 15px;
+    
+}
+
+.footer-custom {
+    background: #155724; 
+    padding: 20px 0;
+    color: white;
+    text-align: center;
+}
