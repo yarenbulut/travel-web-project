@@ -12,14 +12,6 @@ Built with **HTML5**, **Bootstrap 5**, **CSS3**, and **Font Awesome 6**.
 
 ---
 
-## 📸 Preview
-
-```text
-index.html  →  Hero carousel, global navbar, "About" section
-```
-*(Add screenshots/gif here if available)*
-
----
 
 ## 📄 Pages & Key Features
 | Route | File | Highlights |
